@@ -7,3 +7,4 @@ https://www.figma.com/file/F0yh0DFhkDzXED88F4wBqa/Study-Buddy?type=design&node-i
 <hr>
 https://www.linkedin.com/feed/update/urn:li:activity:7109572210993836032/
 <hr>
+ 
